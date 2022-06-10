@@ -1,0 +1,12 @@
+D:\QA\EduconnectAutomation\SeleniumSetups\bin\Debug\net5.0\SeleniumSetups.deps.json
+D:\QA\EduconnectAutomation\SeleniumSetups\bin\Debug\net5.0\SeleniumSetups.dll
+D:\QA\EduconnectAutomation\SeleniumSetups\bin\Debug\net5.0\SeleniumSetups.pdb
+D:\QA\EduconnectAutomation\SeleniumSetups\obj\Debug\net5.0\SeleniumSetups.csproj.AssemblyReference.cache
+D:\QA\EduconnectAutomation\SeleniumSetups\obj\Debug\net5.0\SeleniumSetups.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\EduconnectAutomation\SeleniumSetups\obj\Debug\net5.0\SeleniumSetups.AssemblyInfoInputs.cache
+D:\QA\EduconnectAutomation\SeleniumSetups\obj\Debug\net5.0\SeleniumSetups.AssemblyInfo.cs
+D:\QA\EduconnectAutomation\SeleniumSetups\obj\Debug\net5.0\SeleniumSetups.csproj.CoreCompileInputs.cache
+D:\QA\EduconnectAutomation\SeleniumSetups\obj\Debug\net5.0\SeleniumSetups.dll
+D:\QA\EduconnectAutomation\SeleniumSetups\obj\Debug\net5.0\refint\SeleniumSetups.dll
+D:\QA\EduconnectAutomation\SeleniumSetups\obj\Debug\net5.0\SeleniumSetups.pdb
+D:\QA\EduconnectAutomation\SeleniumSetups\obj\Debug\net5.0\ref\SeleniumSetups.dll
